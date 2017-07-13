@@ -1,0 +1,625 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="AeE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/500px-A%26E_Network_logo.svg.png" group-title="SERIES SD",AeE
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/87.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ANIMAL PLANET" tvg-logo="" group-title="DOCUMENTARIOS SD",ANIMAL PLANET
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/86.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ANIMAL PLANET HD" tvg-logo="https://www.brandeps.com/logo-download/A/Animal-Planet-HD-01.png" group-title="DOCUMENTARIOS HD",ANIMAL PLANET HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/295.ts
+#EXTINF:-1 tvg-ID="" tvg-name="APARECIDA" tvg-logo="https://portal4.files.wordpress.com/2016/02/tv_aparecida.png" group-title="CANAIS ABERTOS SD",APARECIDA
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/161.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ARTE 1" tvg-logo="http://www.clarohd.com.br/blog/wp-content/uploads/2015/07/canal-arte-1.jpg" group-title="VARIEDADES",ARTE 1
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/160.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AXN" tvg-logo="http://vignette3.wikia.nocookie.net/lostpedia/images/1/1c/Axn.png/revision/latest?cb=20061217203136" group-title="SERIES SD",AXN
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/85.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AXN HD" tvg-logo="http://vignette2.wikia.nocookie.net/logosfake/images/b/b8/AXN_HD.png/revision/latest?cb=20140311160901" group-title="SERIES HD",AXN HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/504.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Band_Marca.png" group-title="CANAIS ABERTOS SD",BAND
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/88.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BAND HD" tvg-logo="http://1.bp.blogspot.com/-d5O3PFD8H6I/U9-H6NZXurI/AAAAAAAABi8/hY8CSHu8LGI/s1600/BAND+HD.jpg" group-title="CANAIS ABERTOS HD",BAND HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/296.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BAND SPORTS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/BandSports.png" group-title="ESPORTES SD",BAND SPORTS SD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/84.ts
+#EXTINF:-1 tvg-ID="Band Esportes [Brazil]" tvg-name="BAND SPORTS HD" tvg-logo="https://2.bp.blogspot.com/-Q6G1om1L4Lc/Vs5BORwXRBI/AAAAAAAANJM/ez3ClCdd0RA/s1600/BandSports-HD_Logotipo.png" group-title="ESPORTES/NOTICIAS HD",BAND SPORTS HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/534.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BAND NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2010.svg/2000px-BandNews_TV_logo_2010.svg.png" group-title="ESPORTES SD",BAND NEWS
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/89.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BIS" tvg-logo="http://s2.glbimg.com/ymTn9IE0rr_YJHRPbzwhmyCSdFk=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/d7/69/8ca415a17b57bdc9dff88a951e82.png" group-title="ENTRETENIMENTO/MUSICA SD",BIS
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/83.ts
+#EXTINF:-1 tvg-ID="Bis HD [Brazil]" tvg-name="BIS HD" tvg-logo="http://skybrasilia.com.br/images/canais/194_450D4948892F0FEF.png" group-title="ENTRETENIMENTO/MUSICA HD",BIS HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BOOMERANG" tvg-logo="" group-title="INFANTIS",BOOMERANG
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/90.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL BRASIL" tvg-logo="https://cdn.reweb.io/hagah/image/ZYS_LVP8hsxt4Et-xZ0kVDNNkJ0=/300x300/top/smart/hagah/b/bf/canal-brasil-bf260498.jpg" group-title="FILMES SD",CANAL BRASIL
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/159.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL RURAL" tvg-logo="http://2.bp.blogspot.com/-PBv8cht4HdI/VR2cAyBy8hI/AAAAAAAABTM/qIqwgetNXfs/s1600/canal_rural.png" group-title="",CANAL RURAL
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/158.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CANCAO NOVA" tvg-logo="http://img.cancaonova.com/cnimages/canais/uploads/sites/6/2015/10/formacao_cancao-nova-2.jpg" group-title="",CANCAO NOVA
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/157.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="INFANTIS",CARTOON NETWORK
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/82.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CARTOON NETWORK HD" tvg-logo="http://vignette4.wikia.nocookie.net/cartoonnetwork/images/7/72/CN_Logo_%28HD%29.png" group-title="INFANTIS HD",CARTOON NETWORK HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/777.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CBS" tvg-logo="http://vignette1.wikia.nocookie.net/bigbrother/images/6/60/Cbs.png/revision/latest?cb=20120714172248" group-title="General Streams",CBS
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/666.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CBS NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/2000px-CBS_News.svg.png" group-title="General Streams",CBS NEWS
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/668.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="FILMES SD",CINEMAX
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/91.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CURTA!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Logo_of_Curta!.svg/528px-Logo_of_Curta!.svg.png" group-title="VARIEDADES",CURTA!
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/155.ts
+#EXTINF:-1 tvg-ID="" tvg-name="COMBATE" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/combate.png" group-title="CANAIS PREMIERE SD",COMBATE
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/135.ts
+#EXTINF:-1 tvg-ID="" tvg-name="COMBATE HD" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/combate.png" group-title="CANAIS PREMIERE HD",COMBATE HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/136.ts
+#EXTINF:-1 tvg-ID="" tvg-name="COMEDY CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/200px-Comedy_Central_2011_Logo.svg.png" group-title="SERIES SD",COMEDY CENTRAL
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/156.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/200px-TV_Cultura.svg.png" group-title="General Streams",CULTURA
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/81.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="INFANTIS",DISNEY CHANNEL
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/96.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="DOCUMENTARIOS SD",DISCOVERY CHANNEL
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/80.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://www.gospanishnow.com/wp-content/uploads/2015/12/Discovery-Channel-HD.png" group-title="DOCUMENTARIOS HD",DISCOVERY CHANNEL HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/288.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY CIVILIZATION" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/9b/Discovery_Civilization_2011.png/revision/latest?cb=20110127062351" group-title="DOCUMENTARIOS SD",DISCOVERY CIVILIZATION
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/79.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Home e Health" tvg-logo="" group-title="VARIEDADES",Discovery Home e Health
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/92.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Home e Health HD" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/d9/Discovery_Home_%26_Health_HD.png/revision/latest?cb=20160812225428" group-title="VARIEDADES HD",Discovery Home e Health HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/297.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="INFANTIS",DISCOVERY KIDS
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/93.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY SCIENCE" tvg-logo="" group-title="DOCUMENTARIOS SD",DISCOVERY SCIENCE
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/94.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY TURBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="DOCUMENTARIOS SD",DISCOVERY TURBO
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/95.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://vignette3.wikia.nocookie.net/logosfake/images/1/12/Discovery_Turbo_HD_2014.png/revision/latest?cb=20140810164321" group-title="DOCUMENTARIOS HD",DISCOVERY TURBO HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/298.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Discovery_world_channel.png" group-title="DOCUMENTARIOS HD",DISCOVERY WORLD HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/537.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY JR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Disney_Junior_Logo.png" group-title="INFANTIS",DISNEY JR
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/97.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY XD" tvg-logo="" group-title="INFANTIS",DISNEY XD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/98.ts
+#EXTINF:-1 tvg-ID="" tvg-name="E!" tvg-logo="" group-title="VARIEDADES",E!
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/99.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EI MAXX" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/b/b1/EI_Maxx.png/revision/latest?cb=20160125133423" group-title="General Streams",EI MAXX
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/100.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EI MAXX HD" tvg-logo="http://csloginshd.com/wp-content/uploads/2016/01/131968.gif" group-title="",EI MAXX HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/300.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EI MAXX 2" tvg-logo="http://aovivonatv.com/fotos/57dfa2b1e710ffc4059dd9f7db7f9eb7.jpg" group-title="General Streams",EI MAXX 2
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/43.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EI MAXX 2 HD" tvg-logo="http://aovivonatv.com/fotos/57dfa2b1e710ffc4059dd9f7db7f9eb7.jpg" group-title="",EI MAXX 2 HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/299.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN" tvg-logo="" group-title="ESPORTES SD",ESPN
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/77.ts
+#EXTINF:-1 tvg-ID="ESPN International [Brazil]" tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Espnhd.png" group-title="ESPORTES/NOTICIAS HD",ESPN HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/538.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" group-title="ESPORTES SD",ESPN+
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/770.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN + HD" tvg-logo="http://1.bp.blogspot.com/-y-JU_MqzZAU/VVephngVeRI/AAAAAAAAkXI/EZVQXWeAf_Y/s1600/espn_plus_andina.png" group-title="ESPORTES/NOTICIAS HD",ESPN + HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/713.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="ESPORTES SD",ESPN BRASIL
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/101.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN BRASIL HD" tvg-logo="http://exorbeo.com/wp-content/uploads/blogger/-y_f1iOD0xsc/URTTezPTZqI/AAAAAAAAII4/cKw8DxFGvW4/s1600/espn%2Bbrasil%2Bhd.jpg" group-title="General Streams",ESPN BRASIL HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/301.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESPORTE INTERATIVO HD" tvg-logo="http://www.portalimprensa.com.br/content_file_storage/2015/09/04/Esporteinterativook.jpg" group-title="General Streams",ESPORTE INTERATIVO HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/42.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FISH TV" tvg-logo="http://pescanapraia.com/wp-content/uploads/2014/02/logo-fishtv-blog1-770x439_c.jpg" group-title="General Streams",FISH TV
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/162.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOOD NETWORK" tvg-logo="https://lh4.ggpht.com/VDe_m9MMm8bAA8qMK2jST50oxqLtD4Vlvwc4X5OWAdNUfNd0ylu8CesD2bsmTSHgnzVH=w300" group-title="",FOOD NETWORK
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/173.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX" tvg-logo="" group-title="SERIES SD",FOX
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/75.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX HD" tvg-logo="https://cms.cignal.tv/Upload/Images/FOX-HD.png" group-title="SERIES HD",FOX HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/291.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX PREMIUM 1 HD" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/fox1b.png" group-title="General Streams",FOX PREMIUM 1 HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/302.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX PREMIUM 2 HD" tvg-logo="http://vignette3.wikia.nocookie.net/logosfake/images/9/9d/Fox_Action_HD.png/revision/latest?cb=20160119140445" group-title="",FOX PREMIUM 2 HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/303.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX LIFE" tvg-logo="" group-title="VARIEDADES",FOX LIFE
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/74.ts
+#EXTINF:-1 tvg-ID="Fox Life [Brazil]" tvg-name="FOX LIFE HD" tvg-logo="http://vignette1.wikia.nocookie.net/logosfake/images/2/2c/FOXlife_HD_Logo.png/revision/latest?cb=20140414171410" group-title="SERIES HD",FOX LIFE HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/539.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS" tvg-logo="" group-title="ESPORTES SD",FOX SPORTS
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/73.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS HD" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/foxsportshd.png" group-title="ESPORTES/NOTICIAS HD",FOX SPORTS HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/304.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 2" tvg-logo="" group-title="ESPORTES SD",FOX SPORTS 2
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/72.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/5/5c/Fox_Sports_2_HD_logo.png/revision/latest?cb=20160425194254" group-title="ESPORTES/NOTICIAS HD",FOX SPORTS 2 HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/518.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FX" tvg-logo="" group-title="SERIES SD",FX
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/103.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FX HD" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/f/fb/Fx_us_hd.png/revision/latest?cb=20130929134725" group-title="SERIES HD",FX HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/513.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FUTURA" tvg-logo="" group-title="DOCUMENTARIOS SD",FUTURA
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/102.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO BRASILIA" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/globodf.png" group-title="",GLOBO BRASILIA
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/771.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO MINAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS ABERTOS SD",GLOBO MINAS
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/175.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO MG HD" tvg-logo="http://convergecom.com.br/wp-content/uploads/2015/05/Globo-Internacional-HD-2015_lettering_vertical_azul.jpg" group-title="CANAIS ABERTOS HD",GLOBO MG HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/170.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO NEWS" tvg-logo="" group-title="CANAIS GLOBOSAT SD",GLOBO NEWS
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/71.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO RJ" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/globorj.png" group-title="CANAIS ABERTOS SD",GLOBO RJ
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/772.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO RJ HD" tvg-logo="https://4.bp.blogspot.com/-pfPb1Msp9Y4/UZam90ZnBwI/AAAAAAAAAWk/Wm6ixY-fXHAZRXQxmxxyEicXPoIFgPgPACKgB/s1600/rghd.jpg" group-title="CANAIS ABERTOS HD",GLOBO RJ HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/329.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO SP" tvg-logo="http://tudotv.tv/fotos/1040a3eccf982ee032840be1c02e70c9.png" group-title="CANAIS ABERTOS SD",GLOBO SP
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/351.ts
+#EXTINF:-1 tvg-ID="Globo - São Paulo [Brazil]" tvg-name="GLOBO SP HD" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/globosp.png" group-title="CANAIS ABERTOS HD",GLOBO SP HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/528.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GLOOB" tvg-logo="" group-title="INFANTIS",GLOOB
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/70.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GNT" tvg-logo="" group-title="CANAIS GLOBOSAT SD",GNT
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/105.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/GNT_HD.jpg" group-title="CANAIS GLOBOSAT HD",GNT HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/541.ts
+#EXTINF:-1 tvg-ID="" tvg-name="H2" tvg-logo="" group-title="DOCUMENTARIOS SD",H2
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/106.ts
+#EXTINF:-1 tvg-ID="" tvg-name="H2 HD" tvg-logo="http://my-hd.tv/shared/img/channels/H2-HD.png" group-title="DOCUMENTARIOS HD",H2 HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/523.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO" tvg-logo="" group-title="CANAIS HBO SD",HBO
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/69.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO HD" tvg-logo="http://1.bp.blogspot.com/-zFmdj3tlL-c/UpUhUqucKtI/AAAAAAAAB5o/lEq90DZYp8g/s1600/hbo+hd.png" group-title="CANAIS HBO HD",HBO HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/306.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO 2" tvg-logo="" group-title="CANAIS HBO SD",HBO 2
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/107.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO 2 HD" tvg-logo="http://ncplus.pl/~/media/n/npl/kanaly/logo%20na%20strony%20kanalow/hbo2.png?bc=white&w=575" group-title="CANAIS HBO HD",HBO 2 HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/305.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO FAMILY" tvg-logo="" group-title="CANAIS HBO SD",HBO FAMILY
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/108.ts
+#EXTINF:-1 tvg-ID="HBO Family [Brazil]" tvg-name="HBO FAMILY HD" tvg-logo="http://foromedios.com/uploads/gallery/category_6/gallery_1157_6_8916.png" group-title="CANAIS HBO HD",HBO FAMILY HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/524.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO PLUS" tvg-logo="" group-title="CANAIS HBO SD",HBO PLUS
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/68.ts
+#EXTINF:-1 tvg-ID="HBO Plus [Brazil]" tvg-name="HBO PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CANAIS HBO HD",HBO PLUS HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/525.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO PLUS E" tvg-logo="https://cdn.reweb.io/hagah/image/KwSZUqU4l6JX1OgAX32s0GHnTkM=/300x300/top/smart/hagah/1/13/hbo-plus-e-132dd471.png" group-title="CANAIS HBO SD",HBO PLUS E
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/352.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO SIGNATURE" tvg-logo="" group-title="CANAIS HBO SD",HBO SIGNATURE
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/67.ts
+#EXTINF:-1 tvg-ID="HBO Signature [Brazil]" tvg-name="HBO SIGNATURE HD" tvg-logo="http://tv.wsu.edu/media/1353/hbosignaturehd.png" group-title="CANAIS HBO HD",HBO SIGNATURE HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/542.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HEART TV" tvg-logo="https://lut.im/89tXWicGke/tmTcKXThqKnJUQzE.png" group-title="General Streams",HEART TV
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/767.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HISTORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/210px-History_Logo.svg.png" group-title="DOCUMENTARIOS SD",HISTORY
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/109.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HISTORY HD" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/6/6d/History_HD.png/revision/latest?cb=20161213140619" group-title="DOCUMENTARIOS HD",HISTORY HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/290.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HIT TV" tvg-logo="https://listaiptvbrasil.com/logo/hittv.png" group-title="General Streams",HIT TV
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/768.ts
+#EXTINF:-1 tvg-ID="" tvg-name="I-SAT" tvg-logo="http://3.bp.blogspot.com/-M7p_Y7lhZrM/Us8kAWI-ClI/AAAAAAAAgwo/59hlqgV2Hj8/s1600/I_sat.png" group-title="",I-SAT
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/166.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ID" tvg-logo="" group-title="SERIES SD",ID
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/110.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ID HD" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/5a/Investigation_Discovery_HD.png/revision/latest?cb=20130116175440" group-title="General Streams",ID HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/508.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LIFETIME" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Lifetime_logo_2013.png" group-title="SERIES SD",LIFETIME
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/152.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LIVRE TV" tvg-logo="http://www.livretv.com/images/logo_livre_tv_hd.png" group-title="",LIVRE TV
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/342.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MAIS GLOBOSAT" tvg-logo="http://exorbeo.com/wp-content/uploads/blogger/-d8UtGqoBGFA/UJKeQR2cIBI/AAAAAAAAGU8/RZLKFNyMuyg/s1600/logo%2B%2B%2Bglobosat.jpg" group-title="CANAIS GLOBOSAT SD",MAIS GLOBOSAT
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/151.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MAX" tvg-logo="" group-title="General Streams",MAX
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/111.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MAX PRIME" tvg-logo="" group-title="General Streams",MAX PRIME
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/112.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MAX PRIME E" tvg-logo="https://cdn.reweb.io/hagah/image/hw3XsBQ6QvUMYS6LEYNijpO1LXM=/300x300/top/smart/hagah/6/66/max-prime-e-66e017b0.jpg" group-title="General Streams",MAX PRIME E
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/353.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MAX UP" tvg-logo="" group-title="General Streams",MAX UP
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/66.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MEGAPIX" tvg-logo="" group-title="FILMES SD",MEGAPIX
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/113.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MEGAPIX HD" tvg-logo="http://www.skybrasilia.com.br/images/canais/304_E45DCEB22E506167.png" group-title="FILMES HD",MEGAPIX HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/505.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MULTISHOW" tvg-logo="" group-title="CANAIS GLOBOSAT SD",MULTISHOW
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/114.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MULTISHOW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Multishow_HD_logo.png" group-title="CANAIS GLOBOSAT HD",MULTISHOW HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/514.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MUSIC BOX BRASIL" tvg-logo="" group-title="ENTRETENIMENTO/MUSICA SD",MUSIC BOX BRASIL
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/150.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MTV" tvg-logo="" group-title="ENTRETENIMENTO/MUSICA SD",MTV
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/65.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO" tvg-logo="" group-title="DOCUMENTARIOS SD",NAT GEO
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/115.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="DOCUMENTARIOS HD",NAT GEO HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/307.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO WILD" tvg-logo="http://mms.businesswire.com/media/20160621006560/en/447793/5/NatGeoWild_RGB_black.jpg" group-title="DOCUMENTARIOS SD",NAT GEO WILD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/354.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO WILD HD" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/9f/Nat_Geo_Wild_HD.png/revision/20111201221120" group-title="DOCUMENTARIOS HD",NAT GEO WILD HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/520.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NBR" tvg-logo="" group-title="",NBR
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/149.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NICK" tvg-logo="http://www.nickelodeon.no/assets/nickelodeon-d84aae62e4dfb9dcb60d68cd00dbf53e.png" group-title="INFANTIS",NICK
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/116.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NICK JR." tvg-logo="http://vertv.net/wp-content/uploads/2016/02/2000px-Nick_Jr._logo_2009.svg_.png" group-title="INFANTIS",NICK JR.
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/117.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NHK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo.svg/250px-NHK_logo.svg.png" group-title="General Streams",NHK
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/355.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NOVO TEMPO" tvg-logo="http://pt1.noticias.adventistas.org/2013/06/LOGO-NOVO-TEMPO.jpg" group-title="General Streams",NOVO TEMPO
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/171.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NRJ HITS - BELJIQUE" tvg-logo="https://listaiptvbrasil.com/logo/nrjhits.png" group-title="General Streams",NRJ HITS - BELJIQUE
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/766.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OFF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/1280px-Canal_Off_logo.svg.png" group-title="CANAIS GLOBOSAT SD",OFF
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/64.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OFF HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/2000px-Canal_Off_logo.svg.png" group-title="CANAIS GLOBOSAT HD",OFF HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/529.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PARAMOUNT" tvg-logo="http://www.paramount.com/sites/all/modules/custom/pmount_grid/images/paramount-logo-grid-new.png" group-title="FILMES SD",PARAMOUNT
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/63.ts
+#EXTINF:-1 tvg-ID="Paramount Channel" tvg-name="PARAMOUNT HD" tvg-logo="http://ncplusgo.img.e55-po.insyscd.net/ch-paramount-channel-hd/ch-paramount-channel-hd-290.png" group-title="FILMES HD",PARAMOUNT HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/543.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PLAYBOY" tvg-logo="http://static.wixstatic.com/media/8cf2a1_ac0ffc09aa128ba83a93e3dd4ada3998.png" group-title="ADULTOS",PLAYBOY
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/62.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PLAY TV" tvg-logo="http://playtv.com.br/cdn/images/logo_playtv.png" group-title="ENTRETENIMENTO/MUSICA SD",PLAY TV
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/148.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIERE CLUBES" tvg-logo="http://tudotv.tv/fotos/d78995a33d22b639597fe7cf46888fb9.png" group-title="CANAIS PREMIERE SD",PREMIERE CLUBES
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/123.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://2.bp.blogspot.com/-UZaeucFWclY/Vfq9cLOaGkI/AAAAAAAAAzU/VYv_I4jvAcc/s1600/PFC.png" group-title="CANAIS PREMIERE HD",PREMIERE CLUBES HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/312.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIERE 2" tvg-logo="http://tudotv.tv/fotos/d78995a33d22b639597fe7cf46888fb9.png" group-title="CANAIS PREMIERE SD",PREMIERE 2
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/118.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIERE 2 HD" tvg-logo="http://2.bp.blogspot.com/-UZaeucFWclY/Vfq9cLOaGkI/AAAAAAAAAzU/VYv_I4jvAcc/s1600/PFC.png" group-title="CANAIS PREMIERE HD",PREMIERE 2 HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/308.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIERE 3" tvg-logo="http://tudotv.tv/fotos/d78995a33d22b639597fe7cf46888fb9.png" group-title="CANAIS PREMIERE SD",PREMIERE 3
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/119.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIERE 3 HD" tvg-logo="http://2.bp.blogspot.com/-UZaeucFWclY/Vfq9cLOaGkI/AAAAAAAAAzU/VYv_I4jvAcc/s1600/PFC.png" group-title="CANAIS PREMIERE HD",PREMIERE 3 HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/309.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIERE 4" tvg-logo="http://tudotv.tv/fotos/d78995a33d22b639597fe7cf46888fb9.png" group-title="CANAIS PREMIERE SD",PREMIERE 4
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/120.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIERE 4 HD" tvg-logo="http://2.bp.blogspot.com/-UZaeucFWclY/Vfq9cLOaGkI/AAAAAAAAAzU/VYv_I4jvAcc/s1600/PFC.png" group-title="CANAIS PREMIERE HD",PREMIERE 4 HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/310.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIERE 5" tvg-logo="http://tudotv.tv/fotos/d78995a33d22b639597fe7cf46888fb9.png" group-title="CANAIS PREMIERE SD",PREMIERE 5
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/59.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIERE 5 HD" tvg-logo="http://2.bp.blogspot.com/-UZaeucFWclY/Vfq9cLOaGkI/AAAAAAAAAzU/VYv_I4jvAcc/s1600/PFC.png" group-title="CANAIS PREMIERE HD",PREMIERE 5 HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/311.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIERE 6" tvg-logo="http://tudotv.tv/fotos/d78995a33d22b639597fe7cf46888fb9.png" group-title="CANAIS PREMIERE SD",PREMIERE 6
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/61.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIERE 7" tvg-logo="" group-title="CANAIS PREMIERE SD",PREMIERE 7
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/121.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIERE 8" tvg-logo="http://tudotv.tv/fotos/d78995a33d22b639597fe7cf46888fb9.png" group-title="CANAIS PREMIERE SD",PREMIERE 8
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/60.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIERE 9" tvg-logo="http://tudotv.tv/fotos/d78995a33d22b639597fe7cf46888fb9.png" group-title="CANAIS PREMIERE SD",PREMIERE 9
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/122.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PRIME BOX BRASIL" tvg-logo="http://www.vendasclaro.com.br/blog/wp-content/uploads/2015/05/Prime_Box_Brazil-claro-tv.png" group-title="FILMES SD",PRIME BOX BRASIL
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/147.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RBI" tvg-logo="http://2.bp.blogspot.com/-3cIo6Qut0C0/VFdFKBnuRCI/AAAAAAAAAvw/dW9n2GQ9-WY/s1600/Canal%2BRBI%2B-%2BMIX%2BTV.png" group-title="",RBI
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/178.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RBS TV PORTO ALEGRE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c3/RBS_TV.png" group-title="",RBS TV PORTO ALEGRE
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/179.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RECORD" tvg-logo="http://aovivonatv.com/fotos/a0bdc977f78f2c38f714d129e2b5b6a8.jpg" group-title="CANAIS ABERTOS SD",RECORD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/58.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RECORD HD" tvg-logo="http://3.bp.blogspot.com/-7LbdShGEuwk/VmbbgTjmO2I/AAAAAAAABpk/vFCW7XlKgPw/s1600/RECORD.png" group-title="CANAIS ABERTOS HD",RECORD HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/313.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RECORD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b1/Logotipo_da_Record_News.png/190px-Logotipo_da_Record_News.png" group-title="CANAIS ABERTOS SD",RECORD NEWS
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/57.ts
+#EXTINF:-1 tvg-ID="" tvg-name="REDE BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/37/Logo_Rede_Brasil.png" group-title="General Streams",REDE BRASIL
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/146.ts
+#EXTINF:-1 tvg-ID="" tvg-name="REDE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV!.png" group-title="CANAIS ABERTOS SD",REDE TV
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/124.ts
+#EXTINF:-1 tvg-ID="" tvg-name="REDE TV HD" tvg-logo="http://www.novasdodia.com.br/wp-content/uploads/2013/04/Rede-Tv-Hd-tps.png" group-title="CANAIS ABERTOS HD",REDE TV HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/715.ts
+#EXTINF:-1 tvg-ID="" tvg-name="REDE VIDA" tvg-logo="http://static.redevida.com.br/img/fb_placeholder.png" group-title="",REDE VIDA
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/145.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RIT" tvg-logo="http://www.rittv.com.br/themes/rittv/images/logomarca-rittv.png" group-title="",RIT
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/180.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SBT" tvg-logo="http://www.sbt.com.br/images/logos_wide/logosbt_og.jpg" group-title="CANAIS ABERTOS SD",SBT
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/47.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SBT HD" tvg-logo="https://4.bp.blogspot.com/-IrcQBf_rBqg/VwPjw9ay_GI/AAAAAAAACTs/0TmrOuhvT3EF_s3wfT5_z1a0upxHvGepA/s1600/sbt-hd.png" group-title="CANAIS ABERTOS HD",SBT HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/314.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SEXY HOT" tvg-logo="http://assine.globo.com/estaticos/a_stick_sexyhot.jpg" group-title="ADULTOS",SEXY HOT
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/55.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SEXTREME" tvg-logo="https://servicos.netcombo.com.br/netPortalWEB/framework/skins/netPortalWeb/theme/facelifting_onecolumn/images/canais/210x210/798.jpg" group-title="ADULTOS",SEXTREME
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/56.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SIC INTERNACIONAL" tvg-logo="http://www.atelevisao.com/wp-content/uploads/2011/09/sic-internacional.png" group-title="General Streams",SIC INTERNACIONAL
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/144.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SONY" tvg-logo="http://1.bp.blogspot.com/-ecyirODpBUQ/VdUVsju_c-I/AAAAAAAAPo0/yp8DK3xQiSA/s200/canal-sony-logo.gif" group-title="SERIES SD",SONY
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/125.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SONY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sony_HD.png" group-title="SERIES HD",SONY HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/517.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPACE" tvg-logo="http://3.bp.blogspot.com/-MTQ-yA_Pbm4/VrJwFBqhw5I/AAAAAAAAnVc/l0arJSmrCK4/s1600/spacehd.png" group-title="FILMES SD",SPACE
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/126.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPACE HD" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/spacehd.png" group-title="FILMES HD",SPACE HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/512.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV" tvg-logo="http://s2.glbimg.com/eO3jYDeim38C08X7WW8XHrOLhsE=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/2b/d6/ecfa546cc63850824bb0b69141a5.png" group-title="CANAIS GLOBOSAT SD",SPORTV
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/127.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV HD" tvg-logo="http://exorbeo.com/wp-content/uploads/blogger/-eQiYweOxmVs/UPiLASjVqtI/AAAAAAAAAXc/730KrGMqaeA/s1600/sportv_hd_net.jpg" group-title="CANAIS GLOBOSAT HD",SPORTV HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/317.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 2" tvg-logo="" group-title="CANAIS GLOBOSAT SD",SPORTV 2
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/54.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 2 HD" tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112155032-canal-sport-tv-2-hd.png" group-title="CANAIS GLOBOSAT HD",SPORTV 2 HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/315.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/SporTV_3_logo_2011.png" group-title="CANAIS GLOBOSAT SD",SPORTV 3
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/128.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 3 HD" tvg-logo="http://www.exorbeo.com/wp-content/uploads/2015/05/sportv-3-hd-chega-a-vivo-tv.jpg" group-title="CANAIS GLOBOSAT HD",SPORTV 3 HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/316.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV ALTERNATIVO" tvg-logo="" group-title="CANAIS GLOBOSAT SD",SPORTV ALTERNATIVO
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/142.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 2 ALTERNATIVO" tvg-logo="https://cdn.reweb.io/hagah/image/Kgt93UlQEeU7ZaNiR3TQWu_IeuY=/300x300/top/smart/hagah/3/30/sportv2-30fd4bac.jpg" group-title="CANAIS GLOBOSAT SD",SPORTV 2 ALTERNATIVO
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/143.ts
+#EXTINF:-1 tvg-ID="" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://vertv.net/wp-content/uploads/2016/02/2000px-Logo_Studio_Universal.svg_.png" group-title="FILMES SD",STUDIO UNIVERSAL
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/129.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SYFY" tvg-logo="http://www.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png" group-title="SERIES SD",SYFY
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/141.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TBS" tvg-logo="http://tudotv.tv/fotos/23bf1658e8e3b31fc6deded874868d31.jpg" group-title="SERIES SD",TBS
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/130.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TBS HD" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/83/TBS_HD.png/revision/latest?cb=20141030215616" group-title="General Streams",TBS HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/714.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TCM" tvg-logo="https://cdn.reweb.io/hagah/image/mfa_YMXfX6_HatS9VQPSJP4lx_4=/300x300/top/smart/hagah/8/8e/tcm-8e8895e9.jpg" group-title="FILMES SD",TCM
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/41.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TELECINE PREMIUM" tvg-logo="https://cdn.reweb.io/hagah/image/EWi3-r13hoJPgudAkpuHf1a1TQo=/300x300/top/smart/hagah/2/2a/telecine-premium-hd-2aadc341.jpg" group-title="CANAIS TELECINE SD",TELECINE PREMIUM
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/51.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/08/canal-telecine-premium-hd-programa%C3%A7ao-online.gif" group-title="CANAIS TELECINE HD",TELECINE PREMIUM HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/321.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TELECINE ACTION" tvg-logo="https://cdn.reweb.io/hagah/image/paDmKY8BE52q_piSQC8d3fhS0RE=/300x300/top/smart/hagah/f/fd/telecine-action-hd-fd44e88e.jpg" group-title="CANAIS TELECINE SD",TELECINE ACTION
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/53.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TELECINE ACTION HD" tvg-logo="http://4.bp.blogspot.com/_4av4mGzAnRM/TK5CL_qMjfI/AAAAAAAACHM/WlKPwAU5YIQ/s1600/tcactionhd%5B1%5D.gif" group-title="CANAIS TELECINE HD",TELECINE ACTION HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/318.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TELECINE PIPOCA" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcpipocab.png" group-title="CANAIS TELECINE SD",TELECINE PIPOCA
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/132.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112151057-canal-telecine-pipoca-hd.png" group-title="CANAIS TELECINE HD",TELECINE PIPOCA HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/320.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TELECINE TOUCH" tvg-logo="https://cdn.reweb.io/hagah/image/GyO0TRFipAYf_SaxP5NlKdV07FM=/150x150/top/smart/hagah/c/c4/telecine-touch-hd-c4985738.jpg" group-title="CANAIS TELECINE SD",TELECINE TOUCH
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/50.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TELECINE TOUCH HD" tvg-logo="https://clarotvlojaonline.com.br/img/channels/20151112151535-canal-telecine-touch-hd.png" group-title="CANAIS TELECINE HD",TELECINE TOUCH HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/521.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TELECINE FUN" tvg-logo="https://edhyghellen.files.wordpress.com/2010/10/tcfun.gif" group-title="CANAIS TELECINE SD",TELECINE FUN
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/131.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TELECINE FUN HD" tvg-logo="http://clarohdtv.claro.com.br/image/Get/1693" group-title="CANAIS TELECINE HD",TELECINE FUN HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/319.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TELECINE CULT" tvg-logo="" group-title="CANAIS TELECINE SD",TELECINE CULT
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/52.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TERRA VIVA" tvg-logo="http://marchanews.com.br/wp-content/uploads/2011/11/terra-viva.jpg" group-title="",TERRA VIVA
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/181.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TLC" tvg-logo="http://carvajalprteam.com.ar/wp-content/uploads/2015/02/logo-TLC.jpg" group-title="VARIEDADES",TLC
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/133.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TNT" tvg-logo="http://tbsila.cdn.turner.com/tbsila/tntla/tntla-main-theme/images/custom/thumb.jpg" group-title="FILMES SD",TNT
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/49.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TNT HD" tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/canal_tnt_hd_assistir_online.png" group-title="FILMES HD",TNT HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/322.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TNT SERIES" tvg-logo="https://2.bp.blogspot.com/-6ZmLCZl0TCs/Vw6qooQz2iI/AAAAAAAAqdM/QKCTEKJYXHow6C8vY90INj4q8jDgygAJACKgB/s1600/TNT%2BS%25C3%25A9ries.jpg" group-title="General Streams",TNT SERIES
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/140.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TNT SERIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/TNT_Serie_HD.svg/2000px-TNT_Serie_HD.svg.png" group-title="SERIES HD",TNT SERIES HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/545.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TOONCAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2000px-Tooncast_logo.svg.png" group-title="INFANTIS",TOONCAST
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/139.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TRUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="VARIEDADES",TRUTV
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/138.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV ANHANGUERA GOIANIA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f6/Logotipo_TV_Anhanguera.png" group-title="CANAIS ABERTOS SD",TV ANHANGUERA GOIANIA
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/773.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV SAN" tvg-logo="http://canalsan.com.br/logosan.png" group-title="General Streams",TV SAN
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/580.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV TEM BAURU" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/6/69/20150630212208%21TV_TEM.png" group-title="CANAIS ABERTOS SD",TV TEM BAURU
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/774.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV TEM SOROCABA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/6/69/20150630212208%21TV_TEM.png" group-title="CANAIS ABERTOS SD",TV TEM SOROCABA
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/775.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/2000px-Universal_Channel_Logo_2013.svg.png" group-title="SERIES SD",UNIVERSAL
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/48.ts
+#EXTINF:-1 tvg-ID="Universal [Brazil]" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/9/9f/Universal_Channel_HD_alt.png" group-title="SERIES HD",UNIVERSAL CHANNEL HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/546.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VIVA" tvg-logo="http://logos.streamsites.eu/3269_canal-viva-videos_overview.png" group-title="CANAIS GLOBOSAT SD",VIVA
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/46.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VIVA HD" tvg-logo="http://4.bp.blogspot.com/-ypfDQo_rz9U/Ut6iGWNzkOI/AAAAAAAAg_Q/-K5H32inz80/s1600/canal+viva.png" group-title="CANAIS GLOBOSAT HD",VIVA HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/515.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VH1 MEGA HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/LOGO_VH1_MEGA_HITS.svg/680px-LOGO_VH1_MEGA_HITS.svg.png" group-title="",VH1 MEGA HITS
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/165.ts
+#EXTINF:-1 tvg-ID="" tvg-name="WARNER" tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/warner-channel-hd-online-ao-vivo.gif" group-title="SERIES SD",WARNER
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/45.ts
+#EXTINF:-1 tvg-ID="" tvg-name="WARNER CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Warner_Channel_HD.svg/280px-Warner_Channel_HD.svg.png" group-title="SERIES HD",WARNER CHANNEL HD
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/776.ts
+#EXTINF:-1 tvg-ID="" tvg-name="WOOHOO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Woohoo_logo.svg/300px-Woohoo_logo.svg.png" group-title="VARIEDADES",WOOHOO
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/134.ts
+#EXTINF:-1 tvg-ID="" tvg-name="50 Tons Mais Escuros" tvg-logo="http://iptv.servidorfull.com:8081/images/4465564.jpg" group-title="General Movies",50 Tons Mais Escuros
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/783.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="1000 Anos Depois" tvg-logo="http://iptv.servidorfull.com:8081/images/0485439.jpg" group-title="General Movies",1000 Anos Depois
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/786.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="A Bailarina" tvg-logo="http://iptv.servidorfull.com:8081/images/2261287.jpg" group-title="General Movies",A Bailarina
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/785.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="A Bela e a Fera" tvg-logo="http://iptv.servidorfull.com:8081/images/2771200.jpg" group-title="General Movies",A Bela e a Fera
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/797.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="A Cabana" tvg-logo="http://iptv.servidorfull.com:8081/images/2872518.jpg" group-title="General Movies",A Cabana
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/779.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="A Era do Gelo" tvg-logo="http://iptv.servidorfull.com:8081/images/0268380.jpg" group-title="General Movies",A Era do Gelo
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/802.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="A Era do Gelo 2" tvg-logo="http://iptv.servidorfull.com:8081/images/0438097.jpg" group-title="General Movies",A Era do Gelo 2
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/803.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="A Era do Gelo 3" tvg-logo="http://iptv.servidorfull.com:8081/images/1080016.jpg" group-title="General Movies",A Era do Gelo 3
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/804.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="A Era do Gelo 4" tvg-logo="http://iptv.servidorfull.com:8081/images/1667889.jpg" group-title="General Movies",A Era do Gelo 4
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/805.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="A Era Do Gelo: A Grande Caçada Aos Ovos De Pascoa" tvg-logo="http://iptv.servidorfull.com:8081/images/5480340.jpg" group-title="General Movies",A Era Do Gelo: A Grande Caçada Aos Ovos De Pascoa
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/806.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="A Era do Gelo: O Big Bang" tvg-logo="http://iptv.servidorfull.com:8081/images/3416828.jpg" group-title="General Movies",A Era do Gelo: O Big Bang
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/807.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="A Fera" tvg-logo="http://iptv.servidorfull.com:8081/images/1152398.jpg" group-title="General Movies",A Fera
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/808.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="AGENTE MIRIM" tvg-logo="http://iptv.servidorfull.com:8081/images/3856124.jpg" group-title="General Movies",AGENTE MIRIM
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/753.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Alvin e os Esquilos" tvg-logo="http://iptv.servidorfull.com:8081/images/0952640.jpg" group-title="General Movies",Alvin e os Esquilos
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/809.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Alvin e os Esquilos 2" tvg-logo="http://iptv.servidorfull.com:8081/images/1231580.jpg" group-title="General Movies",Alvin e os Esquilos 2
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/810.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Alvin e os Esquilos 3" tvg-logo="http://iptv.servidorfull.com:8081/images/1615918.jpg" group-title="General Movies",Alvin e os Esquilos 3
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/811.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Alvin e os Esquilos: Na Estrada" tvg-logo="http://iptv.servidorfull.com:8081/images/2974918.jpg" group-title="General Movies",Alvin e os Esquilos: Na Estrada
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/812.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="ARMAS NA MESA" tvg-logo="http://iptv.servidorfull.com:8081/images/4540710.jpg" group-title="General Movies",ARMAS NA MESA
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/781.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Assassin's Creed" tvg-logo="http://iptv.servidorfull.com:8081/images/2094766.jpg" group-title="General Movies",Assassin's Creed
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/787.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Batman Vs Superman: A Origem da Justica" tvg-logo="http://iptv.servidorfull.com:8081/images/2975590.jpg" group-title="General Movies",Batman Vs Superman: A Origem da Justica
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/813.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Breaking Bad O Filme" tvg-logo="http://iptv.servidorfull.com:8081/images/not-found.jpg" group-title="General Movies",Breaking Bad O Filme
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/800.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Busca explosiva 5" tvg-logo="http://iptv.servidorfull.com:8081/images/5781798.jpg" group-title="General Movies",Busca explosiva 5
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/792.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="CARROSSEL: O SUMIÇO DE MARIA JOAQUINA" tvg-logo="n/A" group-title="General Movies",CARROSSEL: O SUMIÇO DE MARIA JOAQUINA
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/754.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Ceu e de Verdade" tvg-logo="http://iptv.servidorfull.com:8081/images/not-found.jpg" group-title="General Movies",Ceu e de Verdade
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/824.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Corra" tvg-logo="http://iptv.servidorfull.com:8081/images/5052448.jpg" group-title="General Movies",Corra
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/796.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Em Meus Sonhos" tvg-logo="http://iptv.servidorfull.com:8081/images/3347518.jpg" group-title="General Movies",Em Meus Sonhos
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/814.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="FESTA DA SALSICHA" tvg-logo="http://iptv.servidorfull.com:8081/images/1700841.jpg" group-title="General Movies",FESTA DA SALSICHA
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/755.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="FRAGMENTADO" tvg-logo="http://iptv.servidorfull.com:8081/images/4972582.jpg" group-title="",FRAGMENTADO
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/782.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Gente Grande" tvg-logo="http://iptv.servidorfull.com:8081/images/1375670.jpg" group-title="General Movies",Gente Grande
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/815.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Gente Grande 2" tvg-logo="http://iptv.servidorfull.com:8081/images/2191701.jpg" group-title="General Movies",Gente Grande 2
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/816.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="iBoy" tvg-logo="http://iptv.servidorfull.com:8081/images/3171832.jpg" group-title="General Movies",iBoy
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/801.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Internet o filme" tvg-logo="http://iptv.servidorfull.com:8081/images/6571110.jpg" group-title="General Movies",Internet o filme
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/791.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Invocacao do Mal" tvg-logo="http://iptv.servidorfull.com:8081/images/1457767.jpg" group-title="General Movies",Invocacao do Mal
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/817.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Invocacao do Mal 2" tvg-logo="http://iptv.servidorfull.com:8081/images/3065204.jpg" group-title="General Movies",Invocacao do Mal 2
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/818.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Max Steel" tvg-logo="http://iptv.servidorfull.com:8081/images/1472584.jpg" group-title="General Movies",Max Steel
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/790.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="MERCY" tvg-logo="http://iptv.servidorfull.com:8081/images/5710042.jpg" group-title="General Movies",MERCY
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/757.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="JASON BOURNE" tvg-logo="http://iptv.servidorfull.com:8081/images/4196776.jpg" group-title="General Movies",JASON BOURNE
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/756.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Marcados Pela Guerra" tvg-logo="http://iptv.servidorfull.com:8081/images/2994190.jpg" group-title="General Movies",Marcados Pela Guerra
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/821.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Mente Criminosa" tvg-logo="http://iptv.servidorfull.com:8081/images/3014866.jpg" group-title="General Movies",Mente Criminosa
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/819.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Misterio de Anubis: A Pedra de Ra" tvg-logo="http://iptv.servidorfull.com:8081/images/3014866.jpg" group-title="General Movies",Misterio de Anubis: A Pedra de Ra
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/822.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Navio Fantasma" tvg-logo="http://iptv.servidorfull.com:8081/images/0288477.jpg" group-title="General Movies",Navio Fantasma
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/823.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="NERVE: UM JOGO SEM REGRAS" tvg-logo="http://iptv.servidorfull.com:8081/images/3531824.jpg" group-title="General Movies",NERVE: UM JOGO SEM REGRAS
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/759.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="NOSSO FIEL TRAIDOR" tvg-logo="http://iptv.servidorfull.com:8081/images/1995390.jpg" group-title="General Movies",NOSSO FIEL TRAIDOR
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/758.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="O BOM GIGANTE AMIGO" tvg-logo="http://iptv.servidorfull.com:8081/images/3691740.jpg" group-title="General Movies",O BOM GIGANTE AMIGO
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/760.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="O Chamado 3" tvg-logo="http://iptv.servidorfull.com:8081/images/0498381.jpg" group-title="General Movies",O Chamado 3
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/799.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="O DRAGAO DO NATAL" tvg-logo="http://iptv.servidorfull.com:8081/images/0498381.jpg" group-title="General Movies",O DRAGAO DO NATAL
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/761.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="O Exorcismo de Anna Ecklund" tvg-logo="http://iptv.servidorfull.com:8081/images/3564860.jpg" group-title="General Movies",O Exorcismo de Anna Ecklund
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/788.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="O Menino Lobo" tvg-logo="http://iptv.servidorfull.com:8081/images/3040964.jpg" group-title="General Movies",O Menino Lobo
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/820.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="O MESTRE DOS GENIOS" tvg-logo="http://iptv.servidorfull.com:8081/images/1703957.jpg" group-title="General Movies",O MESTRE DOS GENIOS
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/762.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="O Poderoso Chefao" tvg-logo="http://iptv.servidorfull.com:8081/images/0068646.jpg" group-title="General Movies",O Poderoso Chefao
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/825.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="O Poderoso Chefao 2" tvg-logo="http://iptv.servidorfull.com:8081/images/not-found.jpg" group-title="General Movies",O Poderoso Chefao 2
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/826.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="O Poderoso Chefao 3" tvg-logo="http://iptv.servidorfull.com:8081/images/not-found.jpg" group-title="General Movies",O Poderoso Chefao 3
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/827.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Os 12 Macacos" tvg-logo="http://iptv.servidorfull.com:8081/images/0114746.jpg" group-title="General Movies",Os 12 Macacos
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/828.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Os Croods" tvg-logo="http://iptv.servidorfull.com:8081/images/0481499.jpg" group-title="General Movies",Os Croods
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/829.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Pequenos Delitos" tvg-logo="http://iptv.servidorfull.com:8081/images/5717492.jpg" group-title="General Movies",Pequenos Delitos
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/798.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Power Rangers" tvg-logo="http://iptv.servidorfull.com:8081/images/3717490.jpg" group-title="General Movies",Power Rangers
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/784.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Querida, Encolhi a Gente" tvg-logo="http://iptv.servidorfull.com:8081/images/0119310.jpg" group-title="General Movies",Querida, Encolhi a Gente
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/830.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Querida, Encolhi as Criancas" tvg-logo="http://iptv.servidorfull.com:8081/images/0097523.jpg" group-title="General Movies",Querida, Encolhi as Criancas
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/832.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Querida, Estiquei o Bebe" tvg-logo="http://iptv.servidorfull.com:8081/images/0104437.jpg" group-title="General Movies",Querida, Estiquei o Bebe
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/831.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Resgate Suicida Dublado" tvg-logo="http://iptv.servidorfull.com:8081/images/0104437.jpg" group-title="General Movies",Resgate Suicida Dublado
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/795.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Snoopy e Charlie Brown: Peanuts, O Filme" tvg-logo="http://iptv.servidorfull.com:8081/images/2452042.jpg" group-title="General Movies",Snoopy e Charlie Brown: Peanuts, O Filme
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/833.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="TINI: DEPOIS DE VIOLETTA" tvg-logo="http://iptv.servidorfull.com:8081/images/5122374.jpg" group-title="General Movies",TINI: DEPOIS DE VIOLETTA
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/834.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Transtornada Obsessiva Compulsiva" tvg-logo="http://iptv.servidorfull.com:8081/images/5337480.jpg" group-title="General Movies",Transtornada Obsessiva Compulsiva
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/794.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Trem Fantasma" tvg-logo="http://iptv.servidorfull.com:8081/images/0433963.jpg" group-title="General Movies",Trem Fantasma
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/835.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="UMA CANCAO" tvg-logo="http://iptv.servidorfull.com:8081/images/0480489.jpg" group-title="General Movies",UMA CANCAO
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/763.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Um Limite entre nos" tvg-logo="http://iptv.servidorfull.com:8081/images/2671706.jpg" group-title="General Movies",Um Limite entre nos
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/793.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="UMA NOITE COM A FAMILIA BLACKS" tvg-logo="http://iptv.servidorfull.com:8081/images/2671706.jpg" group-title="General Movies",UMA NOITE COM A FAMILIA BLACKS
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/764.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Velozes e Furiosos 8" tvg-logo="http://iptv.servidorfull.com:8081/images/4630562.jpg" group-title="General Movies",Velozes e Furiosos 8
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/780.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Vizinhos Nada Secretos" tvg-logo="http://iptv.servidorfull.com:8081/images/2387499.jpg" group-title="General Movies",Vizinhos Nada Secretos
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/789.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="xXx Reativado" tvg-logo="http://iptv.servidorfull.com:8081/images/1293847.jpg" group-title="General Movies",xXx Reativado
+http://iptv.servidorfull.com:8081/movie/tn1ekRAvQD/PRSwwV9ipu/778.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="104 FM" tvg-logo="" group-title="General Streams",104 FM
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/682.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BH FM" tvg-logo="" group-title="General Streams",BH FM
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/698.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Band FM" tvg-logo="" group-title="General Streams",Band FM
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/709.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Band News FM" tvg-logo="" group-title="General Streams",Band News FM
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/706.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bandeirantes FM" tvg-logo="" group-title="General Streams",Bandeirantes FM
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/708.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Caicara FM/AM" tvg-logo="" group-title="General Streams",Caicara FM/AM
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/687.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Capao FM" tvg-logo="" group-title="General Streams",Capao FM
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/688.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CBN SP 90.5 FM - Estudio Ao Vivo" tvg-logo="" group-title="General Streams",CBN SP 90.5 FM - Estudio Ao Vivo
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/673.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Coca Cola FM" tvg-logo="" group-title="General Streams",Coca Cola FM
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/675.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Continental FM" tvg-logo="" group-title="General Streams",Continental FM
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/686.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eldorado FM" tvg-logo="" group-title="General Streams",Eldorado FM
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/683.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FM Premium" tvg-logo="" group-title="General Streams",FM Premium
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/692.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Funk Brasil FM" tvg-logo="" group-title="General Streams",Funk Brasil FM
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/681.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo RJ FM" tvg-logo="" group-title="General Streams",Globo RJ FM
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/703.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo SP FM" tvg-logo="" group-title="General Streams",Globo SP FM
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/697.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Grenal FM" tvg-logo="" group-title="General Streams",Grenal FM
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/690.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Joven Pan FM" tvg-logo="" group-title="General Streams",Joven Pan FM
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/700.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Jovem Pan FM" tvg-logo="" group-title="",Jovem Pan FM
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/672.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Liberdade FM" tvg-logo="" group-title="General Streams",Liberdade FM
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/685.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Mania FM" tvg-logo="" group-title="General Streams",Mania FM
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/676.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Mix FM" tvg-logo="" group-title="General Streams",Mix FM
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/674.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nativa FM" tvg-logo="" group-title="General Streams",Nativa FM
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/705.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Funk Neurotico FM" tvg-logo="" group-title="General Streams",Radio Funk Neurotico FM
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/679.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Gaucha FM" tvg-logo="" group-title="General Streams",Radio Gaucha FM
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/701.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Imbe FM" tvg-logo="" group-title="General Streams",Radio Imbe FM
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/695.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Transamerica" tvg-logo="" group-title="General Streams",Radio Transamerica
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/704.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RFI FM" tvg-logo="" group-title="General Streams",RFI FM
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/702.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Pampa FM" tvg-logo="" group-title="General Streams",Pampa FM
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/684.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Praia FM" tvg-logo="" group-title="General Streams",Praia FM
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/689.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Princesa FM" tvg-logo="" group-title="General Streams",Princesa FM
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/694.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Transamerica FM" tvg-logo="" group-title="General Streams",Transamerica FM
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/677.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tramandai FM" tvg-logo="" group-title="General Streams",Tramandai FM
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/691.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Truckers FM" tvg-logo="" group-title="General Streams",Truckers FM
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/678.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VERDES MARES FM" tvg-logo="" group-title="General Streams",VERDES MARES FM
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/707.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Web Brasil Funk FM" tvg-logo="" group-title="General Streams",Web Brasil Funk FM
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/680.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Xangrila FM" tvg-logo="" group-title="General Streams",Xangrila FM
+http://iptv.servidorfull.com:8081/live/tn1ekRAvQD/PRSwwV9ipu/693.ts
